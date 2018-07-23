@@ -1,6 +1,6 @@
 # Cha Muhimu
-#### Typping application}, 23/July/2018
-#### By **{Protus Bantan}**
+#### Typping application, 23/July/2018
+#### By **{Protus Bantan**
 ## Description
 This is Cha Muhimu.It is a typing application and the main purpose is to measure the speed of your typing skills. It is a 1 min test and afterwards it displays the words written per minute.It starts counting the moment you start typing. Can be played by kids and developers as well. 
 ## Setup/Installation Requirements
