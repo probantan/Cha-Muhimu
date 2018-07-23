@@ -1,3 +1,5 @@
-#sysText {
-    
+body>* {
+    font-family: 'Exo 2', sans-serif;
+    margin: 0;
+    padding: 0;
 }
