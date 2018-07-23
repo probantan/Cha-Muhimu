@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cha Muhimu
 #### Typping application}, 23/July/2018
 #### By **{Protus Bantan}**
@@ -15,7 +14,6 @@ In case you run into issues, feel free to contact me on 0788888888 or email me a
 
 Copyright (c) {2018} **{MOringa School}**
   
-=======
 # {Pig Dice}
 ## Description
 Pig Dice is a game thta involves two players, where they both decide to either hild or roll the dice. If its their turn to roll and they choose to continue to roll the die and it lands on a one, then all points are lost for that round. the first player to reach 100 wins!
@@ -38,5 +36,4 @@ jQuery
 ### License
 This software is licensed under the MIT license.
 Copyright (c) {2018} **{Louisa Saruni Konchellah}**
->>>>>>> upstream/master
   
